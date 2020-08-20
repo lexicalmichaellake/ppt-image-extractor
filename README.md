@@ -5,6 +5,9 @@ PPT Image Extractor
 Purpose: 
 to extract images from PowerPoint files.
 
+Usage:
+:~$ ./ppt-image-extractor.sh [insert the filename of the PowerPoint from which you wish to extract images here]
+
 Todo:
 Port into Python with Tkinter.
 
